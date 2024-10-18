@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+p{
+    width: 80vw;
+    height: 50vh;
+    border: 1px solid #000;
+    margin: 10px auto;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    width: 200px;
+    padding: 5px;
+    margin-top: 10px;
+}
